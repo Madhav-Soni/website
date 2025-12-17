@@ -1,0 +1,3 @@
+/Users/madhav/Desktop/oatppbackend/build/CMakeFiles/oatpp-showcase-exe.dir
+/Users/madhav/Desktop/oatppbackend/build/CMakeFiles/edit_cache.dir
+/Users/madhav/Desktop/oatppbackend/build/CMakeFiles/rebuild_cache.dir
